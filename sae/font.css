@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'PhilosopherRegular';
+    src: url('./font/PhilosopherRegular.eot');
+    src: url('./font/PhilosopherRegular.eot') format('embedded-opentype'),
+         url('./font/PhilosopherRegular.woff2') format('woff2'),
+         url('./font/PhilosopherRegular.woff') format('woff'),
+         url('./font/PhilosopherRegular.ttf') format('truetype'),
+         url('./font/PhilosopherRegular.svg#PhilosopherRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'Classyvogueregular';
+    src: url('./font/Classyvogueregular.eot');
+    src: url('./font/Classyvogueregular.eot') format('embedded-opentype'),
+         url('./font/Classyvogueregular.woff2') format('woff2'),
+         url('./font/Classyvogueregular.woff') format('woff'),
+         url('./font/Classyvogueregular.ttf') format('truetype'),
+         url('./font/Classyvogueregular.svg#Classyvogueregular') format('svg');
+}
